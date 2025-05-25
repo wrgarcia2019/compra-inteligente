@@ -1,0 +1,7 @@
+{
+  "name": "Smart Grocery List",
+  "description": "A sophisticated and modern mobile-responsive app for managing grocery shopping lists, tracking prices, and optimizing budget.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
